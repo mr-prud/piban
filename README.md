@@ -12,4 +12,5 @@ You can find in piban dir the arduino file, the arduino part send radio wave to 
 
 ### Broker part
 
-For trigger arduino, i use a Raspberry pi 1, it's the gateway between home assistant and the arduino, via mqtt.
+For trigger arduino via mqtt, a Raspberry pi 1 is used.
+
